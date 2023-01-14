@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+form{
+    display:flex;
+    box-shadow: 0 0 15px 2px rgba(174, 174, 174, 0.379);
+    border-radius: 50px;
+    width: 80%;
+    
+}
+
+.email{
+    width: 80%;
+
+}
+.email input{
+    width: 100%;
+    outline: none;
+    padding: 20px;
+}
+#bttn{
+    width: 30%;
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+    text-align: center;
+    
+}
+input{
+    border: none;
+    padding: 20px;
+    background-color: transparent;
+}
+
+.number{
+    width: 20px;
+    height: 20px;
+    font-size: 13px;
+    background-color: blue;
+    color: white;
+    border-radius: 50%;
+    margin-right: 5px;
+    padding-bottom:5px ;
+}
+
+.second{
+    margin-top: 6rem !important;
+    background-color:;
+}
+
+.find{
+    background-color: blueviolet;
+    padding:60px ;
+    font-size: 20px;
+    color: antiquewhite;
+    margin-bottom: 10px;
+}
+
+.see{
+    margin-right: 5px;
+    padding-bottom:5px;
+    font-size: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* .f{
+    padding-left: 5px;
+    padding-right: 5px;
+} */
+
+.fb{
+    font-size: 4ch;
+}
+.fa{
+    font-size: 3ch;
+}
+
+.drop{
+    width: 100%;
+    outline: 1ch;
+    border: 5ch;
+}
+
+.se{
+    margin-right: 11px;
+    font-size: 15px;
+    width: 150px;
+    padding: 20px;
+    
+}
+
+.seee{
+    border-radius: 20px;
+    border-color: black;
+    font-size: 15px;
+    width: 150px;
+}
+.way{
+    font-size: 38px;
+}
+.task{
+    font-size: 41px;
+    text-align: center;
+    margin: 50px;
+    padding: 7px;
+}
+
+.team{
+    font-size: 15px;
+}
+
+.card{
+    box-shadow: 0 0 15px 2px rgba(174, 174, 174, 0.379);
+    border-radius: 30px;
+}
